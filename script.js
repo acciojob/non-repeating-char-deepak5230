@@ -22,7 +22,7 @@ function firstNonRepeatedChar(str) {
     return null;
 }
 
- // Write your code here
+ // Write you code he
 
 const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
